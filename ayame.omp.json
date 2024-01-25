@@ -138,7 +138,7 @@
           "powerline_symbol": "",
           "foreground": "#17131e",
           "background": "#8852ea",
-          "template": "  {{ .Name }} {{ .Version }} {{ .Env.POSH_INSTALER }}"
+          "template": "  {{ .Name }} {{ .Env.POSH_INSTALER }}"
         },
         {
           "type": "text",
